@@ -54,6 +54,7 @@ h3 {
     background-color: #00adb5;
     margin-top: 10px;
     width: 20vw;
+    color: black;
   }
   .displayChild {
     display: flex;
