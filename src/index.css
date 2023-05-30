@@ -33,6 +33,9 @@ button {
 
   margin-top: 100px;
 }
+button:hover {
+  cursor: pointer;
+}
 h1 {
   word-wrap: break-word;
   max-width: 100%;
